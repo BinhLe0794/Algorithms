@@ -16,5 +16,13 @@ namespace Common
                 Console.Write($"{item} \t");
             }
         }
+        public static void PrintStringArray(string[] array)
+        {
+            Console.Write($"String Length {array.Length} : ");
+            foreach (var item in array)
+            {
+                Console.Write($"{item} \t");
+            }
+        }
     }
 }

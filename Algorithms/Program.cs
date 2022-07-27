@@ -8,7 +8,7 @@ namespace Algorithms
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            LinkedList<string> list = new LinkedList<string>();
+
 
         }
     }
