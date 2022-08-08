@@ -24,5 +24,6 @@ namespace Common
                 Console.Write($"{item} \t");
             }
         }
+
     }
 }

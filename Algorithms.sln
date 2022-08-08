@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{AC22EB8D-96AA-413A-9229-9D604DD54801}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms", "Algorithms\Algorithms.csproj", "{AC22EB8D-96AA-413A-9229-9D604DD54801}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1295_Find_Numbers_with_Even_Digits", "1295_Find_Numbers_with_Even_Digits\1295_Find_Numbers_with_Even_Digits.csproj", "{1C896C6C-28F8-493C-B17E-EB28CEB2CF59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1295_Find_Numbers_with_Even_Digits", "1295_Find_Numbers_with_Even_Digits\1295_Find_Numbers_with_Even_Digits.csproj", "{1C896C6C-28F8-493C-B17E-EB28CEB2CF59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88_Merge_Sorted_Array", "88_Merge_Sorted_Array\88_Merge_Sorted_Array.csproj", "{08626F77-84DE-4E96-A792-7738758761F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "88_Merge_Sorted_Array", "88_Merge_Sorted_Array\88_Merge_Sorted_Array.csproj", "{08626F77-84DE-4E96-A792-7738758761F1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array", "Array", "{8C9A410B-D396-41A8-8EC8-7D891023355F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{BBE3F98C-E8FA-4BF9-A7E6-98D0B1BA1210}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{BBE3F98C-E8FA-4BF9-A7E6-98D0B1BA1210}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LeetCode", "LeetCode", "{FA6FF09C-F63F-4D0F-9C68-BC8C2AFD17B0}"
 EndProject
@@ -22,27 +22,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String", "String", "{E38879CC-A575-4E4A-AB37-262E92693835}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1662_Check_String_Arrays_Equivalent", "1662_Check_String_Arrays_Equivalent\1662_Check_String_Arrays_Equivalent.csproj", "{C957B82E-61CF-4DCD-BCE2-361B62FED5B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1662_Check_String_Arrays_Equivalent", "1662_Check_String_Arrays_Equivalent\1662_Check_String_Arrays_Equivalent.csproj", "{C957B82E-61CF-4DCD-BCE2-361B62FED5B0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{5F7F3E5D-A5AB-475B-9D9B-3C3191E6DEC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "414_Third_Maximum_Number", "414_Third_Maximum_Number\414_Third_Maximum_Number.csproj", "{EDF46ED7-EAE4-4EFA-808E-567DF434E939}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "414_Third_Maximum_Number", "414_Third_Maximum_Number\414_Third_Maximum_Number.csproj", "{EDF46ED7-EAE4-4EFA-808E-567DF434E939}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursion", "Recursion", "{7828ABA3-4E34-4E3B-BC5B-2E2D8A66C2E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{362CA12C-F275-4AE4-B7B4-9611B0F46896}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factorial", "Factorial\Factorial.csproj", "{362CA12C-F275-4AE4-B7B4-9611B0F46896}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonaci", "Fibonaci\Fibonaci.csproj", "{DA290CF0-604D-4CFE-AD34-2B36234CD6F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonaci", "Fibonaci\Fibonaci.csproj", "{DA290CF0-604D-4CFE-AD34-2B36234CD6F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greatest_Common_Divisor", "Greatest_Common_Divisor\Greatest_Common_Divisor.csproj", "{8412FBF3-6036-489A-A539-A606D8BD4EC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greatest_Common_Divisor", "Greatest_Common_Divisor\Greatest_Common_Divisor.csproj", "{8412FBF3-6036-489A-A539-A606D8BD4EC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanoi_Tower", "Hanoi_Tower\Hanoi_Tower.csproj", "{BB05F31F-EC64-4A81-8B66-C43A6ED755DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hanoi_Tower", "Hanoi_Tower\Hanoi_Tower.csproj", "{BB05F31F-EC64-4A81-8B66-C43A6ED755DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print_Arr_Without_Iterate", "Print_Arr_Without_Iterate\Print_Arr_Without_Iterate.csproj", "{C9DC1263-29CB-44F5-BEC0-56954DA5263C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Print_Arr_Without_Iterate", "Print_Arr_Without_Iterate\Print_Arr_Without_Iterate.csproj", "{C9DC1263-29CB-44F5-BEC0-56954DA5263C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Searching", "Searching", "{F0E7D223-F143-43E5-B1B2-FACBFA9CFC24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_704_BinarySearch", "_704_BinarySearch\_704_BinarySearch.csproj", "{6304BB53-E4FA-407D-97F5-DFB2B5E4939C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_704_BinarySearch", "_704_BinarySearch\_704_BinarySearch.csproj", "{6304BB53-E4FA-407D-97F5-DFB2B5E4939C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "912_Sort_Array", "912_Sort_Array\912_Sort_Array.csproj", "{8FDCDC78-9608-47DE-9C1D-3834894C5214}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkedList", "LinkedList", "{A7F68F6D-7B4C-4F19-A79F-74762354C601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "206_Reverse_Linked_List", "206_Reverse_Linked_List\206_Reverse_Linked_List.csproj", "{35445E98-9FE8-4B0D-922C-FDA5248A1C44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -98,6 +104,14 @@ Global
 		{6304BB53-E4FA-407D-97F5-DFB2B5E4939C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6304BB53-E4FA-407D-97F5-DFB2B5E4939C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6304BB53-E4FA-407D-97F5-DFB2B5E4939C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FDCDC78-9608-47DE-9C1D-3834894C5214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDCDC78-9608-47DE-9C1D-3834894C5214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDCDC78-9608-47DE-9C1D-3834894C5214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDCDC78-9608-47DE-9C1D-3834894C5214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35445E98-9FE8-4B0D-922C-FDA5248A1C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35445E98-9FE8-4B0D-922C-FDA5248A1C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35445E98-9FE8-4B0D-922C-FDA5248A1C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35445E98-9FE8-4B0D-922C-FDA5248A1C44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -116,6 +130,9 @@ Global
 		{BB05F31F-EC64-4A81-8B66-C43A6ED755DD} = {7828ABA3-4E34-4E3B-BC5B-2E2D8A66C2E1}
 		{C9DC1263-29CB-44F5-BEC0-56954DA5263C} = {7828ABA3-4E34-4E3B-BC5B-2E2D8A66C2E1}
 		{6304BB53-E4FA-407D-97F5-DFB2B5E4939C} = {F0E7D223-F143-43E5-B1B2-FACBFA9CFC24}
+		{8FDCDC78-9608-47DE-9C1D-3834894C5214} = {5F7F3E5D-A5AB-475B-9D9B-3C3191E6DEC1}
+		{A7F68F6D-7B4C-4F19-A79F-74762354C601} = {FA6FF09C-F63F-4D0F-9C68-BC8C2AFD17B0}
+		{35445E98-9FE8-4B0D-922C-FDA5248A1C44} = {A7F68F6D-7B4C-4F19-A79F-74762354C601}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F1709B31-B5CC-4398-A205-05D8517B7ADA}
